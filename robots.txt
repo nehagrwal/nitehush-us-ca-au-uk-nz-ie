@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/nitehush-us-ca-au-uk-nz-ie/sitemap.xml
